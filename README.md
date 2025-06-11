@@ -1,4 +1,4 @@
-# 个人 Codeforces AC 代码集 (My Codeforces AC Solutions)
+# 个人 Codeforces AC 代码集
 
 这个仓库是我在 [Codeforces](https://codeforces.com/) 平台上AC的编程题解的个人合集。
 主要用于记录学习过程、复习解题思路。
