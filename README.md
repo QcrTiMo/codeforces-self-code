@@ -1,0 +1,24 @@
+# 个人 Codeforces AC 代码集 (My Codeforces AC Solutions)
+
+这个仓库是我在 [Codeforces](https://codeforces.com/) 平台上AC的编程题解的个人合集。
+主要用于记录学习过程、复习解题思路。
+
+## 仓库结构
+
+每个题目的解法都存放在以其 **题目编号和名称** 命名的文件夹中，例如：
+
+-   `A. Bit++`
+-   `A. Next Round`
+-   `A. Team`
+-   `A. Watermelon`
+-   `A. Way Too Long Words`
+
+每个文件夹内包含对应题目的 C# 源代码文件。
+
+## 使用语言
+
+本仓库中的所有题解目前均使用 **C#** 编写。
+
+---
+
+*Happy Coding!* 🚀
