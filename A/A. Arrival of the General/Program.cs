@@ -42,7 +42,7 @@ In the second sample the colonel may swap the soldiers in the following sequence
 (10, 58, 76, 31, 63, 10, 40)
 (10, 76, 58, 31, 63, 10, 40)
 (76, 10, 58, 31, 63, 10, 40)
-(76, 10, 58, 31, 63, 40, 10)
+(76, 10, 58, 31, 63, 40, 10
  * ***/
 
 
